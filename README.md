@@ -7,3 +7,7 @@ You are the new Chief Data Scientist for your city's school district. In this ca
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
+Files/Folders included in this repo:
+Starter_Code folder contains both csvs located in the Resources folder as well as the Pandas code in the "PyCitSchools_starter.ipynb" file.
+A gitignore is also found in this repo.
+Lastly I have included a ReadMe with background on the task and intial requirements.
