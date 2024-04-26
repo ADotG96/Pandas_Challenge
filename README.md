@@ -1,3 +1,5 @@
+![education](https://github.com/ADotG96/Pandas_Challenge/assets/120142473/4075e0b4-6b17-4ba0-97a3-8c36c2d52fab)
+
 # Pandas_Challenge
 
 Background
